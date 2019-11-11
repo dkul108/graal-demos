@@ -1,0 +1,7 @@
+.git
+.idea
+target
+akka/target
+helloworld/target
+lucene/target
+benchmark/target
